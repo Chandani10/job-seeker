@@ -7,7 +7,16 @@ This is simple Job Listing Flutter App . which is developed in Riverpod framewor
 
 This project is a starting point for a Flutter application.
 
+
 **Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/Chandani10/job-seeker.git
+
+```
+**Step 2:**
 
 Go to project root and execute the following command in console to get the required dependencies:
 
@@ -15,7 +24,7 @@ Go to project root and execute the following command in console to get the requi
 flutter pub get 
 
 ```
-**Step 2:**
+**Step 3:**
 
 Open terminal and run following command:
 
